@@ -1,0 +1,9 @@
+<h1>Musicians in My Area</h1>
+
+<section id='users-in-area'>
+  <% @area_users.each do |user| %>
+    <% if user.id != current_user.id %>
+      <p><%= user.username %></p>
+    <% end %>
+  <% end %>
+</section>

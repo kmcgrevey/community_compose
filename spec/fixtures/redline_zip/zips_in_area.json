@@ -1,0 +1,130 @@
+{
+  "zip_codes": [
+    {
+      "zip_code": "80121",
+      "distance": 4.319,
+      "city": "Littleton",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80111",
+      "distance": 4.808,
+      "city": "Englewood",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80237",
+      "distance": 2.57,
+      "city": "Denver",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80150",
+      "distance": 3.927,
+      "city": "Englewood",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80151",
+      "distance": 3.927,
+      "city": "Englewood",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80155",
+      "distance": 3.927,
+      "city": "Englewood",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80113",
+      "distance": 2.702,
+      "city": "Englewood",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80110",
+      "distance": 4.747,
+      "city": "Englewood",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80014",
+      "distance": 4.812,
+      "city": "Aurora",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80222",
+      "distance": 0,
+      "city": "Denver",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80231",
+      "distance": 2.133,
+      "city": "Denver",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80210",
+      "distance": 1.869,
+      "city": "Denver",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80224",
+      "distance": 1.455,
+      "city": "Denver",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80223",
+      "distance": 4.37,
+      "city": "Denver",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80247",
+      "distance": 3.229,
+      "city": "Denver",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80246",
+      "distance": 2.364,
+      "city": "Denver",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80209",
+      "distance": 3.176,
+      "city": "Denver",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80230",
+      "distance": 3.903,
+      "city": "Denver",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80206",
+      "distance": 4.298,
+      "city": "Denver",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80218",
+      "distance": 4.721,
+      "city": "Denver",
+      "state": "CO"
+    },
+    {
+      "zip_code": "80220",
+      "distance": 4.381,
+      "city": "Denver",
+      "state": "CO"
+    }
+  ]
+}

@@ -5,4 +5,8 @@ class User < ApplicationRecord
     # will make dynamic later
     ENV['FLAT_KEY']
   end
+
+  def self.others_near_me(zip_list)
+    User.where(zipcode: zip_list)
+  end
 end
