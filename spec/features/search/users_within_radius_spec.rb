@@ -3,10 +3,10 @@ require 'rails_helper'
 RSpec.describe 'Search Location', type: :feature do
   describe 'As a logged in user when I visit the search page' do
     it 'I can see other users within my area' do
-      myself = create(:user, username: 'kevin_m', zipcode: '80222')
-      user1 = create(:user, zipcode: 80210)
-      user2 = create(:user, zipcode: 80222)
-      user3 = create(:user, zipcode: 90001)
+      myself = create(:user, username: 'kevin_m', zip: '80222')
+      user1 = create(:user, zip: 80210)
+      user2 = create(:user, zip: 80222)
+      user3 = create(:user, zip: 90001)
       allow_any_instance_of(ApplicationController).to receive(:current_user)
                                                   .and_return(myself)
       json_zips_resp = File.read('spec/fixtures/redline_zip/zips_in_area.json')

@@ -7,6 +7,6 @@ class User < ApplicationRecord
   end
 
   def self.others_near_me(zip_list)
-    User.where(zipcode: zip_list)
+    User.where(zip: zip_list)
   end
 end
